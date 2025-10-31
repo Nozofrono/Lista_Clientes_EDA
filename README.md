@@ -1,5 +1,5 @@
 # 📊 Análisis Exploratorio de Datos (EDA) - Perfil Demográfico y Económico de Clientes
-
+por: Juan Guillermo Marulanda Mesa
 Este documento resume los hallazgos esenciales obtenidos del análisis de las variables demográficas (`Age`, `Educ`) y la variable económica (`Income`) de la clientela, buscando la estructura de los segmentos y sus relaciones.
 
 ### Objetivo del Análisis
